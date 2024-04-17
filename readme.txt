@@ -9,3 +9,6 @@ About project
   6. - Confirmation email will sent to user
      - data will move to another table.
   7. Can view that table on './v.php'
+
+
+  to setup database, read database.txt
