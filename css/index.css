@@ -1,0 +1,74 @@
+.product-overview-area-logo {
+    width: 339px;
+    height: 66px;
+}
+
+.home-area > .container-fluid {
+    background-color: #C1E9F5;
+}
+
+.home-area-text {
+    padding: 40px;
+    font-size: medium;
+}
+
+.heading {
+    background-color: #E7E6E6;
+    height: 30vh;
+}
+
+.card {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.platform-area .card {
+    background-color: #35B3EB;
+    min-height: 500px;
+}
+
+.card img {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.joined-card img {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.platform-area a  {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    right: 25%;
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.product-features-area a {
+    width: 262px;
+}
+
+.product-features-content {
+    background-color: #F2F2F2;
+}
+
+.product-campaigns-content-healthy {
+    background-color: #34B0E8;
+}
+
+.product-campaigns-content-active {
+    background-color: #21C7C3;
+}
+
+.contact-area {
+    background-color: #3B4B55;
+}
